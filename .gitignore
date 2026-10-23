@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# data: raw snapshots and the built database are reproducible with R/update.R
+data/
+
+# leftover RStudio state from the old nested project folder
+europhyt/
