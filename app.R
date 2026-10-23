@@ -5,6 +5,7 @@
 library(shiny)
 library(bslib)
 library(DBI)
+library(hms)  # needed by RSQLite extended_types; listed so deployments install it
 library(dplyr)
 library(stringr)
 library(DT)

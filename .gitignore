@@ -8,3 +8,6 @@ data/
 
 # leftover RStudio state from the old nested project folder
 europhyt/
+
+# rsconnect deployment records
+rsconnect/
